@@ -1,0 +1,54 @@
+{
+  "25/08/2020": [
+    {
+      "id": 1,
+      "title": "Chest day - with arm and something",
+      "exercises": [
+        {
+          "name": "Bench Press Medicine ball",
+          "number": 3,
+          "info": "50 lb x 5, 60 lb x 5, 70 lb x 5"
+        },
+        {
+          "name": "Exercise B",
+          "number": 1,
+          "info": "40 lb x 10"
+        }
+      ]
+    }
+  ],
+  "26/08/2020": [
+    {
+      "id": 2,
+      "title": "Leg Day",
+      "exercises": [
+        {
+          "name": "Exercise C",
+          "number": 1,
+          "info": "30 lb x 6"
+        },
+        {
+          "name": "Exercise D",
+          "number": 1,
+          "info": "40 lb x 5"
+        },
+        {
+          "name": "Exercise E",
+          "number": 1,
+          "info": "50 lb x 5"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Arm Day",
+      "exercises": [
+        {
+          "name": "Exercise F",
+          "number": 1,
+          "info": "60 lb x 6"
+        }
+      ]
+    }
+  ]
+}
