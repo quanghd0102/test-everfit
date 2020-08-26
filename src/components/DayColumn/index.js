@@ -18,8 +18,7 @@ const getItemStyle = (isDragging, draggableStyle) => ({
   ...draggableStyle,
 });
 const getListStyle = (isDraggingOver) => ({
-  background: isDraggingOver ? theme.mainColor : theme.bgColor,
-  opacity: isDraggingOver ? 0.1 : 1,
+  background: isDraggingOver ? '#5a57cb33' : theme.bgColor,
 });
 
 const DayColumn = ({

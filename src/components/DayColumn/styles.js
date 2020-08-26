@@ -18,7 +18,6 @@ export default styled.div`
   .main-section {
     background: ${(props) => props.theme.bgColor};
     mix-blend-mode: normal;
-    opacity: 0.8;
     border-radius: 6px;
     flex: 1;
     display: flex;
